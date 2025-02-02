@@ -1,5 +1,7 @@
-![Monstercat Visualizer Screenshot](https://i.imgur.com/cu1R235.png "Monstercat Visualizer Screenshot")
 
+<details>
+  <summary>README of original repo</summary>
+![Monstercat Visualizer Screenshot](https://i.imgur.com/cu1R235.png "Monstercat Visualizer Screenshot")
 
 # Monstercat Visualizer
 [![GitHub release](https://img.shields.io/github/release/MarcoPixel/Monstercat-Visualizer.svg?colorB=97CA00?label=version)](https://github.com/MarcoPixel/Monstercat-Visualizer/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/MarcoPixel/Monstercat-Visualizer/total.svg?colorB=97CA00)](https://github.com/MarcoPixel/Monstercat-Visualizer/releases) [![GitHub stars](https://img.shields.io/github/stars/MarcoPixel/Monstercat-Visualizer.svg?colorB=007EC6)](https://github.com/MarcoPixel/Monstercat-Visualizer/stargazers)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MarcoPixel/Monstercat-Visualizer/master/LICENSE)
@@ -69,3 +71,18 @@ You can also request new features and help them develop by joining the discussio
 - For bringing awesome music and artists to the community - **Monstercat** <3
 
 ##### Disclaimer: The resources used in this skin are in no way endorsed by the respective owners. This skin is not affiliated with Monstercat and the artists.
+
+</details><br>
+
+
+# Reason
+The original project has been abandoned by the creator and issues are piling up. This version aims to fix some of those issues. Not all but some.
+
+# How does it differ?
+
+In addition to the existing features of the visualizer, this version will have:
+1. Better choice of colors for the bars (see [issue #413](https://github.com/marcopixel/monstercat-visualizer/issues/413#issue-2782562223)).
+2. Support for vertically aligned monitors (see [issue #412](https://github.com/marcopixel/monstercat-visualizer/issues/412#issue-2709771149))
+3. Better settings menu.
+
+As of today (02/02/25) development hasn't started.
